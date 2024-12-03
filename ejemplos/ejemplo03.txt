@@ -1,0 +1,22 @@
+//  Ejemplo de uso de arreglos 
+1.  Inicio
+2.  (notasEstudiantes(7),i[1-n])
+3.  notasEstudiantes[0] <-- 9
+4.  notasEstudiantes[1] <-- 10
+5.  notasEstudiantes[2] <-- 7
+6.  notasEstudiantes[3] <-- 8
+7.  notasEstudiantes[4] <-- 9
+8.  notasEstudiantes[5] <-- 10
+9.  notasEstudiantes[7] <-- 8 // error no se puede agregar valor; 
+                            // no hay posición 7 en el arreglo
+10. Escribir notasEstudiantes[0] + notasEstudiantes[2]
+11. Escribir notasEstudiantes[1] + notasEstudiantes[6]
+12. Escribir notasEstudiantes[4+1] + notasEstudiantes[1+1]
+13. Escribir notasEstudiantes[2-1] + notasEstudiantes[3+3]
+14. Fin
+
+
+
+
+
+

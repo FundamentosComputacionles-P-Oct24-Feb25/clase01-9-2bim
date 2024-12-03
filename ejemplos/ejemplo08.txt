@@ -1,0 +1,17 @@
+//  Ejemplo de uso de arreglos
+1.  Inicio
+2.  (nombresEstudiantes(4), x(50)[{a-z, {A-Z}, BS]) // 0,1,2,3
+3.  (apellidosEstudiantes(4), x(50)[{a-z, {A-Z}, BS]) // 0,1,2,3
+4.  (notasEstudiantes(4),i[1-n])
+5.  notasEstudiantess <-- {9, 10, 7, 8}
+//                         0   1  2  3
+6.  nombresEstudiantes <-- {"Mónica", "Homero", "Antonio", "Vanesa"}
+                              0         1          2          3
+
+7.  apellidosEstudiantes <-- {"Sotomayor", "Flores", "Salinas", "Vire"}
+8.  Escribir nombresEstudiantes[1] + " " + apellidosEstudiantes[1]+ " " + notasEstudiantes[1]
+9.  Escribir nombresEstudiantes[0] + " " + apellidosEstudiantes[0]+ " " + notasEstudiantes[0]
+10.  Fin
+
+
+// pantalla

@@ -1,0 +1,18 @@
+//  Ejemplo de uso de arreglos
+1.  Inicio
+2.  (notasEstudiantes(7),i[1-n])
+3.  indice, i[0-n]
+4.  suma, i[0-n] <-- 0
+5.  notasEstudiantes[0] <-- 9
+6.  notasEstudiantes[1] <-- 10
+7.  notasEstudiantes[2] <-- 7
+8.  notasEstudiantes[3] <-- 8
+9.  notasEstudiantes[4] <-- 9
+10. notasEstudiantes[5] <-- 10
+11. notasEstudiantes[6] <-- 8
+12. Para(indice<--0, indice<7, 1) haga
+13.     suma <-- suma + notasEstudiantes[indice] // suma = 0 + notasEstudiantes[0] // suma = 0 + 9 // 9
+                                                 // suma = 9 + notasEstudiantes[1] // suma = 9 + 10 // 19
+14. Fin_Para
+15. Escribir suma
+16. Fin
